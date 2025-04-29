@@ -7,7 +7,6 @@ $array = array(
     'ESP' => 'Virgile',
     'FRA' => 'Marie-Claire'
 );
-sort($array);
 
 foreach($array as $key => $value)
 {
