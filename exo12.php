@@ -27,4 +27,3 @@ foreach($array as $key => $value)
             break;
     }
 }
-?>
