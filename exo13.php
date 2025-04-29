@@ -21,5 +21,3 @@ $nbnote = $nbnote + 1;
 $calcul /= $nbnote; 
 echo round($calcul, 2);
 ?>
-
-
